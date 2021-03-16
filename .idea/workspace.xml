@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64df6c37-04cb-4e68-8a8f-aedeab44ab30" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1pqgdRTQ3b54yO03WvJaipf88Si" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64df6c37-04cb-4e68-8a8f-aedeab44ab30" name="Default Changelist" comment="" />
+      <created>1615916122000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615916122000</updated>
+      <workItem from="1615916125324" duration="70000" />
+      <workItem from="1615916411816" duration="394000" />
+      <workItem from="1615916823202" duration="225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="1411" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615916724030">
+      <screen x="126" y="1080" width="1680" height="1050" />
+    </state>
+    <state x="594" y="1411" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/126.1080.1680.1050@126.1080.1680.1050" timestamp="1615916724030" />
+    <state x="126" y="1080" width="1680" height="1050" key="CommitChangelistDialog2" timestamp="1615916793812">
+      <screen x="126" y="1080" width="1680" height="1050" />
+    </state>
+    <state x="126" y="1080" width="1680" height="1050" key="CommitChangelistDialog2/0.0.1920.1080/126.1080.1680.1050@126.1080.1680.1050" timestamp="1615916793812" />
+    <state x="679" y="1160" key="CommitChangelistDialog2/0.25.1920.1055/126.1105.1680.947@126.1105.1680.947" timestamp="1615916565303" />
+    <state x="198" y="1159" key="DiffContextDialog" timestamp="1615916637330">
+      <screen x="126" y="1080" width="1680" height="1050" />
+    </state>
+    <state x="198" y="1159" key="DiffContextDialog/0.0.1920.1080/126.1080.1680.1050@126.1080.1680.1050" timestamp="1615916637330" />
+    <state x="475" y="1250" key="SettingsEditor" timestamp="1615916448920">
+      <screen x="126" y="1105" width="1680" height="947" />
+    </state>
+    <state x="475" y="1241" key="SettingsEditor/0.0.1920.1080/126.1080.1680.1050@126.1080.1680.1050" timestamp="1615916220030" />
+    <state x="475" y="1250" key="SettingsEditor/0.25.1920.1055/126.1105.1680.947@126.1105.1680.947" timestamp="1615916448920" />
+    <state x="695" y="1315" key="Vcs.Push.Dialog.v2" timestamp="1615916545062">
+      <screen x="126" y="1105" width="1680" height="947" />
+    </state>
+    <state x="695" y="1315" key="Vcs.Push.Dialog.v2/0.25.1920.1055/126.1105.1680.947@126.1105.1680.947" timestamp="1615916545062" />
+    <state x="755" y="1343" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1615917050049">
+      <screen x="126" y="1105" width="1680" height="949" />
+    </state>
+    <state x="755" y="1343" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1080/126.1080.1680.1050@126.1080.1680.1050" timestamp="1615916803410" />
+    <state x="755" y="1343" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.25.1920.1055/126.1105.1680.949@126.1105.1680.949" timestamp="1615917050049" />
+  </component>
+</project>

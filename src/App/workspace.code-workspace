@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "express",
+			"path": "../../../yargs/express"
+		},
+		{
+			"name": "my-app",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
