@@ -20,6 +20,7 @@ function App() {
 
   function onSubmit(e) {
     e.preventDefault();
+    console.log("test changes");
   }
   return (
     <div className="App">

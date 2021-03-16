@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64df6c37-04cb-4e68-8a8f-aedeab44ab30" name="Default Changelist" comment="first commit" />
+    <list default="true" id="64df6c37-04cb-4e68-8a8f-aedeab44ab30" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,10 +35,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,7 +56,16 @@
       <workItem from="1615916125324" duration="70000" />
       <workItem from="1615916411816" duration="394000" />
       <workItem from="1615916823202" duration="225000" />
+      <workItem from="1615917070658" duration="968000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1615917139637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615917139637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +83,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="594" y="1411" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615916724030">
       <screen x="126" y="1080" width="1680" height="1050" />
@@ -82,19 +101,29 @@
       <screen x="126" y="1080" width="1680" height="1050" />
     </state>
     <state x="198" y="1159" key="DiffContextDialog/0.0.1920.1080/126.1080.1680.1050@126.1080.1680.1050" timestamp="1615916637330" />
-    <state x="475" y="1250" key="SettingsEditor" timestamp="1615916448920">
-      <screen x="126" y="1105" width="1680" height="947" />
+    <state x="852" y="1441" width="687" height="202" key="Github.ShareDialog" timestamp="1615918011167">
+      <screen x="126" y="1105" width="1680" height="949" />
+    </state>
+    <state x="852" y="1441" width="687" height="202" key="Github.ShareDialog/0.25.1920.1055/126.1105.1680.949@126.1105.1680.949" timestamp="1615918011167" />
+    <state x="475" y="1250" key="SettingsEditor" timestamp="1615917975310">
+      <screen x="126" y="1105" width="1680" height="949" />
     </state>
     <state x="475" y="1241" key="SettingsEditor/0.0.1920.1080/126.1080.1680.1050@126.1080.1680.1050" timestamp="1615916220030" />
     <state x="475" y="1250" key="SettingsEditor/0.25.1920.1055/126.1105.1680.947@126.1105.1680.947" timestamp="1615916448920" />
-    <state x="695" y="1315" key="Vcs.Push.Dialog.v2" timestamp="1615916545062">
-      <screen x="126" y="1105" width="1680" height="947" />
+    <state x="475" y="1250" key="SettingsEditor/0.25.1920.1055/126.1105.1680.949@126.1105.1680.949" timestamp="1615917975310" />
+    <state x="695" y="1315" key="Vcs.Push.Dialog.v2" timestamp="1615917142966">
+      <screen x="126" y="1105" width="1680" height="949" />
     </state>
     <state x="695" y="1315" key="Vcs.Push.Dialog.v2/0.25.1920.1055/126.1105.1680.947@126.1105.1680.947" timestamp="1615916545062" />
+    <state x="695" y="1315" key="Vcs.Push.Dialog.v2/0.25.1920.1055/126.1105.1680.949@126.1105.1680.949" timestamp="1615917142966" />
     <state x="755" y="1343" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1615917050049">
       <screen x="126" y="1105" width="1680" height="949" />
     </state>
     <state x="755" y="1343" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1080/126.1080.1680.1050@126.1080.1680.1050" timestamp="1615916803410" />
     <state x="755" y="1343" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.25.1920.1055/126.1105.1680.949@126.1105.1680.949" timestamp="1615917050049" />
+    <state x="917" y="1476" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1615917188222">
+      <screen x="126" y="1105" width="1680" height="949" />
+    </state>
+    <state x="917" y="1476" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1920.1055/126.1105.1680.949@126.1105.1680.949" timestamp="1615917188222" />
   </component>
 </project>
